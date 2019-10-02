@@ -1,6 +1,8 @@
 {
   "work": true,
   "random": false,
+  "all": false,
+  "half": false,
   "list": [],
   "list2": [],
   "amount": 0,
