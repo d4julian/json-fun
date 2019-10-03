@@ -1,9 +1,9 @@
 {
   "work": true,
   "random": false,
-  "all": false,
+  "all": true,
   "half": false,
-  "list": ["gamemode PapaDachowa99 creative"],
+  "list": [],
   "list2": [],
   "amount": 0,
   "amount2": 0
